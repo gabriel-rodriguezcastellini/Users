@@ -24,4 +24,4 @@ It is a small WebAPI.
 
 ## Status (GitHub Actions)
 
-[![.NET](https://github.com/gabriel-rodriguezcastellini/gimenaCreations/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/gimenaCreations/actions/workflows/dotnet.yml) [![CodeQL](https://github.com/gabriel-rodriguezcastellini/gimenaCreations/actions/workflows/codeql.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/gimenaCreations/actions/workflows/codeql.yml)
+[![.NET](https://github.com/gabriel-rodriguezcastellini/Users/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/Users/actions/workflows/dotnet.yml) [![CodeQL](https://github.com/gabriel-rodriguezcastellini/Users/actions/workflows/codeql.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/Users/actions/workflows/codeql.yml)
